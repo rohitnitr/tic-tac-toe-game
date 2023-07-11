@@ -17,7 +17,7 @@ pip install tkinter numpy
 4. Run the game by executing the Python script:
 
 ```bash
-python tic_tac_toe.py
+python game.py
 ```
 
 ## How to Play

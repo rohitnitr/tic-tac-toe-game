@@ -5,8 +5,8 @@ import random
 size_of_board = 900
 symbol_size = (size_of_board / 3 - size_of_board / 8) / 2
 symbol_thickness = 50
-symbol_X_color = '#351c75'  # Red color for symbol X
-symbol_O_color = '#c90076'  # Blue color for symbol O
+symbol_X_color = '#351c75'  # Purple color for symbol X
+symbol_O_color = '#c90076'  # Pink color for symbol O
 Green_color = '#32a400'  # Green color for scores
 
 class Tic_Tac_Toe():
